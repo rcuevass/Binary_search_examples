@@ -1,2 +1,3 @@
-# Binary_search_examples
-Repo that contains some example of binary search
+# Binary search examples
+
+Python code that exemplifies the use of binary search
